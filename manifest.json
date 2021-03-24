@@ -1,6 +1,6 @@
 {
   "name": "SurfExtension", 
   "version": "1.0", 
-  "Description": "Keep yourself productive", 
+  "description": "Keep yourself productive", 
   "manifest_version": 2
 }
