@@ -1,2 +1,2 @@
 # SurfExtension
-A chrome extension to keep yourself productive.
+A chrome extension to keep yourself productive. Original idea by William Schwalbe. In development...
